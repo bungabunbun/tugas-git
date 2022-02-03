@@ -6,3 +6,5 @@ import cmath
 
 # Menginput Angka
 a = int(input('Tulis a: '))
+b = int(input('Tulis b: '))
+c = int(input('Tulis c: '))
