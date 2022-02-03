@@ -10,3 +10,4 @@ b = int(input('Tulis b: '))
 c = int(input('Tulis c: '))
 
 # Menghitung Diskriminan
+d = (b**2) - (4*a*c)
