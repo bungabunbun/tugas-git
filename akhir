@@ -5,3 +5,4 @@
 import cmath
 
 # Menginput Angka
+a = int(input('Tulis a: '))
