@@ -21,3 +21,4 @@ print('Hasil Persamaan Kuadrat adalah {0} dan {1}'.format(x1,
 
 # Menghitung Diskriminan
 d = (b**2) - (4*a*c)
+# Menghitung x1 dan x2
