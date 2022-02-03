@@ -11,3 +11,5 @@ c = int(input('Tulis c: '))
 
 # Menghitung Diskriminan
 d = (b**2) - (4*a*c)
+
+# Menghitung x1 dan x2
